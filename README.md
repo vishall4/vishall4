@@ -20,7 +20,7 @@ I build end-to-end ML solutions using Python, PyTorch, and TensorFlow. Currently
 
 ## 🚀 Featured Projects
 
-### [FASEROH: Neural Taylor Expansion Prediction](https://github.com/vishall4/faseroh)
+### [FASEROH: Neural Taylor Expansion Prediction](https://github.com/vishall4/FASEROH-Taylor-Expansion)
 GSoC 2026 evaluation for ML4Sci — Seq2seq models (LSTM+Attention, Transformer) translating math functions to Taylor series.
 - **Results:** 25.4% exact match, 93.2% BLEU-1, beat mentor baseline (val loss 1.51 vs 2.35)
 - **Tech:** PyTorch, Transformer, LSTM, SymPy, Beam Search
